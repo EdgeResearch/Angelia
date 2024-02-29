@@ -17,7 +17,7 @@ Yuri Brandi ([@YuriBrandi](https://github.com/YuriBrandi))
 ## Architecture
 
 <p align='center'> 
-    <img width="250" src="https://github.com/EdgeResearch/Angelia/assets/52039988/282976eb-3bef-4f6a-bc95-8aef95bca787">
+    <img width="350" src="https://github.com/EdgeResearch/Angelia/assets/52039988/282976eb-3bef-4f6a-bc95-8aef95bca787">
 </p>
 
 This work will be followed by a scientific paper, thus technical information won't be covered in this readme.
