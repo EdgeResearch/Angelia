@@ -11,9 +11,9 @@ This University work consists of an in-depth study and a fully working *privacy-
 It is inspired by the earlier paper [ConvNet frameworks for multi-modal fake news detection](https://link.springer.com/article/10.1007/s10489-021-02345-y), which uses trusted sources and polarity analysis for fake news detection.
 
 ### Students
-Raffaele Aurucci [@raffaele-aurucci](https://github.com/raffaele-aurucci)  
-Lukas Gajewski [@LukaszG92](https://github.com/LukaszG92)  
-Yuri Brandi [@YuriBrandi](https://github.com/YuriBrandi)
+Raffaele Aurucci ([@raffaele-aurucci](https://github.com/raffaele-aurucci))  
+Lukas Gajewski ([@LukaszG92](https://github.com/LukaszG92))  
+Yuri Brandi ([@YuriBrandi](https://github.com/YuriBrandi))
 
 ## Contributions
 
