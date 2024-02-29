@@ -1,0 +1,9 @@
+{
+  "name": "angelia",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "natural": "^6.10.4",
+    "sentiment": "^5.0.2"
+  }
+}

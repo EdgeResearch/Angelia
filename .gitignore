@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+.idea
+
+./sentiment_analysis_scripts/node_modules
+./sentiment_analysis_scripts/package-lock.json
+
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
