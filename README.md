@@ -6,7 +6,7 @@
     <img src=https://github.com/YuriBrandi/Angelia/assets/52039988/fe187280-24c1-4878-b211-98daf4e485d4 width=200>
 </p>
 
-This University work consists of an in-depth study and a fully working *privacy-oriented*, *open-source*, *lightweight* browser extension (*available at https://github.com/YuriBrandi/Angelia*) that allows to **verify** *Fake news' titles* and *AI synthetic images*. 
+This University work consists of an in-depth study and a fully working *privacy-oriented*, *open-source*, *lightweight* browser extension (*available [here](https://github.com/YuriBrandi/Angelia)*) that allows to **verify** *Fake news' titles* and *AI synthetic images*. 
 
 ### Students
 Raffaele Aurucci ([@raffaele-aurucci](https://github.com/raffaele-aurucci))  
