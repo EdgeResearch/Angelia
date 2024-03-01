@@ -28,7 +28,7 @@ This work will be followed by a scientific paper, thus technical information won
 - A Tokenization module
 - An Evidence Search module
 - A Polarity Analysis module
-- A Devision Making module
+- A Decision Making module
 
 #### Note: All these modules are exectued in local and require no external requests (no CDN is used).
 
