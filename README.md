@@ -26,9 +26,9 @@ This work will be followed by a scientific paper, thus technical information won
 
 - A Title Extraction module
 - A Tokenization module
-- A Polarity Analysis module
 - An Evidence Search module
-- A Reliability Evaluation module
+- A Polarity Analysis module
+- A Devision Making module
 
 #### Note: All these modules are exectued in local and require no external requests (no CDN is used).
 
