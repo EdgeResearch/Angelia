@@ -1,0 +1,401 @@
+index,news,label,sentiment_transformers,sentiment_textblob,sentiment_sentiment,sentiment_natural
+0,"No, ZAYN Is Not 'Desperate To Defend' Girlfriend Gigi Hadid",FAKE,NEGATIVE,POSITIVE,NEGATIVE, POSITIVE
+1,Breaking: Crew Of Air Force One Refuses To Fly Obama 6000 Miles ‘Just To Play Golf’ – BuzzfeedUSA,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+2,Queen orders Meghan Markle into royal bootcamp,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+3,Are Darren Aronofsky and Suki Waterhouse dating?,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+4,Cannibals Arrested in Florida Claim Eating Human Flesh Cures Diabetes and Depression,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+5,Hugh Jackman reportedly ‘flips out’ off-camera after losing best actor to James Franco,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+6,Rumor Bust! Ryan Gosling and Eva Mendes Are Not Breaking Up,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+7,Rumor Bust! Katie Holmes Did NOT Breakup with Jamie Foxx for Joshua Jackson,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+8,Putin says: ‘Pope Francis Is Not A Man Of God’ | Must-See !!,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEGATIVE
+9,People believe George Clooney is going to run for president in 2020,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+10,Selena Gomez Pregnant With The Weeknd’s Baby & Racing to Marry? — Report,FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+11,Gwen Stefani Pregnant With Blake Shelton’s Baby? Why Friends Think She’s Got A Secret,FAKE,POSITIVE,NEGATIVE,NEUTRAL, POSITIVE
+12,Alexandra Daddario Slams Rumors She’s Still Dating Zac Efron — What Happened?,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+13,Johnny Depp Concerned About Aging: He’s Having A Mid-Life Crisis,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+14,Rob Pattinson Still ‘Cares Deeply’ For Kristen Stewart — Getting Back Together After Party Reunion?,FAKE,POSITIVE,NEUTRAL,NEGATIVE, POSITIVE
+15,Did Kanye West Make A Diss Track About Donald Trump?,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+16,ELECTORAL COLLEGE ELECTOR COMMITS SUICIDE TO AVOID VOTING FOR DONALD TRUMP,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+17,Target to Discontinue Sale of Holy Bible,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+18,New York Man Wanted For Infecting 240 Men And Women With HIV!!!,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+19,Malia Obama Arrested With A Gang Of Thugs In Chicago,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+20,Manager killed 10 employees at checkers on 183st and 27ave,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+21,BREAKING NEWS: Prince William and Harry donates $100 million to Hurricane Harvey Victims,FAKE,POSITIVE,NEUTRAL,NEGATIVE, NEGATIVE
+22,Obama Orders Life-Sized Bronze Statute of Himself To Be Permanently Installed in White House,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+23,NASA ANNOUNCED THAT IT COMMUNICATED WITH FOUR RACES OF ALIENS,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEGATIVE
+24,Did FDA really announce that vaccines are causing autism?,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+25,United Airlines Flight Attendant Slaps Crying Baby During Flight ,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+26,"Michelle Obama: ‘Florida Shooting Is Clearly Trump’s Fault, These Shootings Are Happening Constantly Since He Became Our President.We Must Protect Our Children From This Tyrant”Do You Support Her?’",FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+27,BREAKING: Illegal Muslim From Iran Arrested For Starting California Wildfire,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+28,Trump on Revamping the Military: We’re Bringing Back the Draft,FAKE,NEGATIVE,NEGATIVE,NEUTRAL, POSITIVE
+29,BREAKING: Monica Lewinsky Found Dead In Roslindale,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+30,Snapchat is shutting down!,FAKE,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+31,ICE Detainer Issued for Suspected Wine Country Arsonist in Sonoma Jail,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+32,"Fact-Check: No, Fall River, Massachusetts, Was Not ‘Built by Immigrants’",FAKE,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+33,WHITE SUPREMACIST WHO KILLED PROTESTER IS A DEMOCRAT AND VISITED OBAMA IN OVAL OFFICE (Updated 16.08.2017),FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+34,Tom Price: “It’s Better For Our Budget If Cancer Patients Die More Quickly”,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+35,Virginia Republican Wants Schools To Check Children's Genitals Before Using Bathroom ,FAKE,NEGATIVE,POSITIVE,NEUTRAL, POSITIVE
+36,BREAKING: CZECH REPUBLIC ARMS CITIZENS – “YOU CAN NOW SHOOT TERRORISTS ON SIGHT”,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+37,112-Year-Old Voters in North Carolina? ,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+38,Twelve More Hurricanes Headed Towards US,FAKE,NEGATIVE,POSITIVE,NEUTRAL, POSITIVE
+39,UF requests to cancel Rivalry game against FSU,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+40,BREAKING: Trump Removes Muslim Federal Judge For Trying To Implement Sharia Law In America,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+41,"Actress Jennifer Aniston: “Me and All The Trump Supporter Celebrities Decide To Make A Company Named “Celebrities For Trump”, Which Fight Against All Anti Trump Celebrities, I Think President Trump Needs Our Support”. Do You Support Her?",FAKE,POSITIVE,NEUTRAL,POSITIVE, POSITIVE
+42,"No, Bill Gates didn't tweet Donald Trump will be 'one of the greatest presidents'",REAL,NEGATIVE,POSITIVE,POSITIVE, NEGATIVE
+43,"No, Michelle Obama's Mom Will Not Receive a Pension for Living in the White House",REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+44,Georgia hasn’t banned Muslim culture,REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+45,Bill Gates did not refuse to vaccinate his children,REAL,NEGATIVE,NEUTRAL,POSITIVE, POSITIVE
+46,NOT REAL NEWS: US Navy didn’t do new autopsy of Vince Foster,REAL,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+47,AP FACT CHECK: UN didn’t order US to pay slavery reparations,REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+48,Senate Democrats Demand Supreme Court Nominee Not Be Unduly Influenced By U.S. Constitution,FAKE,NEGATIVE,NEUTRAL,POSITIVE, POSITIVE
+49,"Promises Made, Promises Kept: President Biden Is Growing the Economy for Black Americans",REAL,POSITIVE,NEGATIVE,POSITIVE, POSITIVE
+50,Head Of NFL Fines Steeler Teammates $1 MILLION Each!,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+51,Reports that Trump aide defended spousal abuse are false,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+52,Fake news: Church gunman was anti-fascist seeking ‘communist’ uprising,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+53,Paul McCartney reunited with stolen 1961 Höfner bass after more than 50 years,REAL,POSITIVE,POSITIVE,NEGATIVE, NEGATIVE
+54,Amazon founder Jeff Bezos just saved millions on a recent share sale. Here's how.,REAL,POSITIVE,NEUTRAL,POSITIVE, POSITIVE
+55,The least affordable housing market in recent memory': Why now is a great time to rent,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+56,"Fact check: Snapchat had temporary login outage, did not permanently shut down",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+57,"Kansas City Chiefs parade shooting stemmed from personal dispute, police say: Live updates",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+58,"Police find body of missing 5-year-old Darnell Taylor, foster mother faces murder charge",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+59,"3.8 magnitude earthquake hits Ontario, California; also felt in Los Angeles",REAL,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+60,"Donald Trump faces another judgment day, this time in his $370 million civil fraud case",REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+61,Fani Willis hearing: a salacious drama that could undermine Trump election interference case,REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+62,Me first! How passengers are cheating their way onto the plane faster,REAL,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+63,"ISIS Lays Down Arms After Katy Perry’s Impassioned Plea To ‘Like, Just Co-Exist’",FAKE,NEGATIVE,NEGATIVE,NEUTRAL, POSITIVE
+64,Fake news claims Malia Obama was expelled from Harvard for drug violation,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+65,"No, Fox Sports Has Not Canceled NFL Broadcasts ‘Until Players Respect The Flag’",REAL,NEGATIVE,NEUTRAL,POSITIVE, NEGATIVE
+66,White House Chef Quits Because Trump Has Only Eaten Fast Food For 6 Months,FAKE,NEGATIVE,POSITIVE,NEUTRAL, POSITIVE
+67,Target IS NOT To Discontinue Sale Of Holy Bible - They Don't Sell It,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+68,Fake News: Ken Starr NOT Killed In Plane Crash On The Way To DC To Testify,REAL,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+69,Fake News: Conservative Icon Ted Nugent NOT Killed In Hunting Accident,REAL,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+70,Fake News: Monica Lewinsky NOT Found Dead In Roslindale,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEUTRAL
+71,Fake News: NO Illegal Muslim From Iran Arrested For Starting California Wildfire,REAL,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+72,Obama Administration Kept Illegal Mexican Kids In Detention Camps As “Experiment”,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+73,Breaking News: FBI Uncovers Evidence That 62 Million Trump Voters are All Russian Agents,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+74,Jennifer Aniston allegedly doubts she could get back together with Brad Pitt,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEUTRAL
+75,Katie Holmes pregnant with Jamie Foxx’s child at Met Gala: rumors,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+76,Alexei Navalny's wife says Putin accountability will come 'very soon' - as she speaks hours after his death,REAL,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+77,Greece becomes first Orthodox Christian country to legalise same-sex marriage,REAL,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+78,"Middle East latest: Explosion near US cargo ship off Yemen; Israel 'burning my city' as it makes 'fake promises' on ceasefire, Gaza father says",REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+79,Singapore has 'done deal so Taylor Swift can't perform in any other countries in southeast Asia',REAL,NEGATIVE,NEGATIVE,POSITIVE, POSITIVE
+80,Babysitter on Crystal Meth Eats 3-Month-Old Baby,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+81,"3,000-Pound Great White Shark Captured in Great Lakes",FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+82,BREAKING: President Trump Signs Executive Order Stripping NFL Of ‘Non-Profit’ Status,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, POSITIVE
+83,Was Kanye involved with Amanda Lepore before Kim K.? ,REAL,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+84,Sofía Vergara and Joe Manganiello divorcing after seven years of marriage ,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+85,Jada Pinkett Smith insists she did not cheat on Will Smith: We’re in a ‘beautiful place’ ,REAL,POSITIVE,POSITIVE,POSITIVE, NEUTRAL
+86,Gwen Stefani Says It's 'Pretty Cute' When People Mistakenly Call Blake Shelton Her Husband,FAKE,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+87,Beyoncé's Rep Shuts Down Claim the Mom-to-Be Had Lip Injections While Pregnant: 'You Are the Saddest Individuals',REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+88,"Teri Hatcher Denies That She's 'Broke, Homeless and Living Out' of Her Van: 'It's Totally Absurd'",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+89,"Shaquille O'Neal Says: 'Trump Is Possibly The Best President Of The President Of All Times Ever, He Is Not Afraid To...",FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+90,Whoopi Did Not Say ‘Military Widows Love Their 15 Minutes In the Spotlight’,REAL,NEGATIVE,POSITIVE,POSITIVE, NEGATIVE
+91,"Vanessa Kirby, Tom Cruise didn't discuss wedding rumours",REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+92,Clinton Body Count Series #5: Woman Set to Testify Against Clintons Blown Up in Home Explosion,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+93,President Trump Falsely Claims Obama Began Migrant Family Separations,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+94,Selena Gomez not collaborating with The Weeknd,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+95,Sick’ Pedophiles ‘Control’ the Music Industry,FAKE,NEGATIVE,NEGATIVE,NEUTRAL, NEGATIVE
+96,Correction: A Trump fan was charged with threathening to murder Maxine Waters after listening to right wing radio,FAKE,NEGATIVE,POSITIVE,NEGATIVE, POSITIVE
+97,Secret Service Agent Says Obama Is Muslim & Gay In New Tell-All Book,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+98,New Regulation Requires 75 MPH Governor On All Motorcycles,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+99,Stephen Bannon: “Nobody Can Blame You For Beating Your Wife If It’s Out Of Love”,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+100,"Bill Murray Had This to Say About Rochester, New Hampshire Residents",FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+101,"Bill Gates: “I think Donald Trump will go down to history as one of the greatest presidents, just like Reagan.”",FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+102,BREAKING: Hilary Clinton Filed For Divorce In New York Courts!,FAKE,NEGATIVE,POSITIVE,NEUTRAL, POSITIVE
+103,John Hagee Calls For “Prosecuting Women Who Say God’s Name During Intercourse”,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+104,"BREAKING: Trump Just Gave Every WORKING, LEGAL Man Woman And Child In The USA $612 EACH! -",FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+105,GOP Official Who Says America Needs ?Another 9/11? Shares _______________ With Trump,FAKE,NEGATIVE,NEUTRAL,POSITIVE, POSITIVE
+106,Starbucks Just Placed Trump’s Photo on Floor so Every Customer have to Step On It….,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+107,Whoopi Goldberg: Navy SEAL Widow was “Looking for Attention”,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+108,BREAKING: Trump Caught INVESTING in Dakota Pipeline Before Signing It,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+109,BREAKING: Nancy Pelosi Was Just Taken From Her Office In Handcuffs,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+110,"New Star Wars Movie Filming Near Rosenberg, Texas, Large Number of Extras Needed – WBN 12 News",FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+111,BREAKING: President Trump Just Told Paul Ryan ‘You’re Fired’ ,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+112,Lindsey Graham Threatens To Convert To Democrat If Republicans Don’t Dump Trump – True Trumpers,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+113,Texas law enforcement officer fatally shot upon arriving for work by 3 Muslim refugee. Do you support to deport them?,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+114,BREAKING: MALIA OBAMA EXPELLED FROM HARVARD,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+115,TRUMP WANTS TO DEPORT AMERICAN INDIANS TO INDIA,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+116,Trump warns Russia over Jehovah’s Witnesses ban and urges members to seek asylum in the US,FAKE,POSITIVE,NEUTRAL,NEGATIVE, NEUTRAL
+117,BREAKING: Fox Star Tucker Carlson In Critical Condition After Head On Collision Driving Home,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+118,Rubio: “Rape Victims Should Be In Custody If There Is Suspicion That They’re Planning Abortion”,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+119,WORSE THAN HITLER! Trey Gowdy’s Son Found In A Dumpster In DC! Murders Are Being Questioned!,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+120,"Nancy Pelosi Suffers Breakdown, Taken From Capitol Hill On A Stretcher",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+121,BREAKING: The Democrat James Comey Has Been Having An Affair With Was JUST REVEALED! (DETAILS),FAKE,NEGATIVE,NEUTRAL,NEUTRAL, POSITIVE
+122,"Scott Baio, Beloved Face Of Conservatism, Dies In Small Plane Crash On His Way To Visit Trump",FAKE,NEGATIVE,POSITIVE,POSITIVE, NEGATIVE
+123,Paul Ryan: “Donald Trump Plans To Resign From Office Within The Next 30 Days”,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+124,Malia Obama Fired From Cushy Internship At Spanish Embassy,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+125,Kim Jong Un Dead: North Koreans Calling Trump An Assassin,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+126,BREAKING: Hillary Clinton Has Third Heart Attack-Docs Says She ‘Won’t Survive’,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, POSITIVE
+127,"BREAKING: Barron Trump Rushed To The Hospital, Hospital Releases Statement On His Condition",FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+128,BREAKING: Barcelona Terrorist Has A Cousin In The US Named Barack,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+129,BREAKING: President Trump Pardons Kim Davis,FAKE,POSITIVE,NEUTRAL,POSITIVE, POSITIVE
+130,Breaking: Mar-A-Lago Destroyed By Irma-Jared Kushner Still Missing,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+131,BREAKING: US comedian Kevin Hart in critical condition after gory car crash,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+132,Saudi Arabia to Behead 6 School Girls for Being With Their Male Friends Without Parents or a Guardian,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, POSITIVE
+133,Morgan Freeman: ‘Jailing Hillary’ Best Way To ‘Restore Public Faith In Govt’,FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+134,"Singer Tina Turner: “This Thanksgiving Is The First Time in 8 Years That I am Thankful For Our President, God Bless Him And His Supporters.” Do You Support To Tina ? – American President Donald J. Tru",FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+135,UPDATE: Van Full Of Illegals Caught Voting At Multiple Alabama Polling Locations,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+136,Julia Roberts Claims ‘Michelle Obama Isn’t Fit to Clean Melania’s Toilet’,FAKE,NEGATIVE,POSITIVE,POSITIVE, POSITIVE
+137,"BOOM: Roy Moore Takes The Military Vote, Pulls Ahead By 5K Votes",FAKE,POSITIVE,NEGATIVE,NEUTRAL, NEUTRAL
+138,The Kardashians donate whopping sum to Las Vegas mass shooting victims,FAKE,POSITIVE,NEUTRAL,NEGATIVE, NEGATIVE
+139,"BREAKING: Trump fires Deputy Attorney General Rod Rosenstein, raising questions over Mueller’s fate",FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+140,HOLLYWOOD CELEBS: WE WILL GO ON ‘TOTAL STRIKE’ IF TRUMP DOES NOT RESIGN,FAKE,NEGATIVE,NEUTRAL,POSITIVE, NEUTRAL
+141,"Haiti Official Getting Ready To Testify Against Clinton Foundation Corruption NEXT WEEK, Found DEAD With “Gunshot to the head”",FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+142,First Indictment Issued In Russian Bribery Case Tied To Obama-Era Uranium One Deal,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+143,Mueller Will Be Forced To Resign Over Pelosi Affair,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+144,82-Year-Old Who Killed A Muslim In Self-Defense Gets The Death Penalty,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+145,BREAKING: Irish superstar Saoirse Ronan dies after on-set accident in St. Lucia,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+146,BREAKING: Malia Obama SUSPENDED After Racist Anti-White Attack Goes Viral,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+147,Archbishop Desmond Tutu dies while holidaying in Texas,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+148,Black Men Arrested In Philadelphia Starbucks Settle For $2 Million,FAKE,POSITIVE,NEGATIVE,NEGATIVE, NEGATIVE
+149,"FOX Network Picks Up ‘Roseanne,’ Saying It Has No Problem With Occasional Racism – The Newly Press News Network – POTUS Press Network",FAKE,POSITIVE,POSITIVE,NEGATIVE, POSITIVE
+150,New Law Makes it Illegal to Shower and Do Laundry on Same Day,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+151,"MITT ROMNEY: ‘TRUMP HAS SOME VERY SERIOUS EMOTIONAL PROBLEMS, HE MUST RESIGN BEFORE WE…’",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+152,David and Victoria Beckham Shut Down Rumors That They're Getting a Divorce,REAL,POSITIVE,NEGATIVE,NEUTRAL, NEUTRAL
+153,Hostage crisis poses dilemma for Israel and offers a path to victory for Hamas,REAL,POSITIVE,POSITIVE,NEGATIVE, NEGATIVE
+154,Article details fake Macaulay Culkin ‘satanic Hollywood’ revelations,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+155,Brian Wilson: Beach Boys star's family seeks conservatorship due to health issues,REAL,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+156,Zayn Malik defends Gigi Hadid after 'racist' Snapchat video,REAL,POSITIVE,NEUTRAL,NEUTRAL, NEGATIVE
+157,Millions of donkeys killed each year to make medicine,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+158,Javier Milei: Argentines wait for 'crazy' president's shock therapy to work,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+159,Donald Trump must pay $354m in fraud damages. How could he do it?,REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+160,https://www.cairnspost.com.au/news/opinion/nicole-kidman-and-keith-urban-divorce-rumours-unfounded/news-story/b23d0a3f9aa06a4eae8652236ea5dbef,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+161,Kourtney Kardashian's Called Off Her Rumoured ‘Fling’ With Justin Bieber For Scott Disick,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+162,Court video of Navalny in Russian prison day before reported death seems to show Putin critic in good health,REAL,POSITIVE,POSITIVE,NEGATIVE, NEGATIVE
+163,Senators push federal commission to help defend voters from artificial intelligence disinformation,REAL,POSITIVE,NEGATIVE,POSITIVE, POSITIVE
+164,"Economic outlook continues to improve, CBS News poll finds",REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+165,Why Nevada's holding a GOP caucus and primary for 2024,REAL,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+166,Nikki Haley's presidential campaign shifts focus in effort to catch Trump in final weeks before South Carolina primary,REAL,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+167,"Nikki Haley makes surprise appearance at ""Saturday Night Live"" town hall",REAL,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+168,Nikki Haley asks for Secret Service protection,REAL,POSITIVE,NEGATIVE,NEUTRAL, POSITIVE
+169,Paul McCartney's long-lost Höfner bass returned after more than 50 years,REAL,POSITIVE,POSITIVE,NEUTRAL, NEGATIVE
+170,"Pregnant woman found dead in Indiana basement 32 years ago is identified through dad's DNA: ""I couldn't believe it""",REAL,POSITIVE,POSITIVE,NEGATIVE, NEGATIVE
+171,"Putin claims he favors ""more predictable"" Biden over Trump",REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+172,South Carolina Democratic primary turnout for 2024 and how it compares to previous years,REAL,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+173,"Taylor Swift, Travis Kelce conspiracy theories abound on political right with K.C. Chiefs in Super Bowl",REAL,NEGATIVE,POSITIVE,POSITIVE, POSITIVE
+174,"Trump's political action committees spent nearly $50 million on legal bills in 2023, filings show",REAL,NEGATIVE,POSITIVE,POSITIVE, POSITIVE
+175,Father and son cooking duo stirs up Chinese cuisine,REAL,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+176,A clear light for Latin America,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+177,In Pictures: Indigenous women guard against illegal mining in Ecuador ,REAL,POSITIVE,NEGATIVE,NEGATIVE, NEGATIVE
+178,Conductor Seiji Ozawa remembered as a kind and thoughtful humanitarian ,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+179,"Why Boston’s wealthy Back Bay said yes, in our backyard",REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+180,Europe casts wary eye as Americans debate engagement with world ,REAL,NEGATIVE,NEGATIVE,NEUTRAL, POSITIVE
+181,Brad Pitt is 'not ready to leap into a serious relationship with MIT professor Neri Oxman as he focuses on his six children and career',REAL,NEGATIVE,NEGATIVE,NEUTRAL, NEGATIVE
+182,"Chopin lovers can’t meet their hero, but this pianist got to do the next best thing",REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+183,"Sorry But Jennifer Aniston and Brad Pitt Are Never Ever, Ever Getting Back Together",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+184,"Shutup, Rihanna Is Not Pregnant Or Fat",REAL,POSITIVE,NEGATIVE,NEUTRAL, NEUTRAL
+185,"Nina Dobrev and Orlando Bloom Not Dating, 'Just Friends,' Source Says",REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+186,Serial rapist Iain Packer who killed sex worker Emma Caldwell to launch appeal,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+187,Plane Crew Didn’t Rebuff Obama,REAL,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+188,A Fake Sean Spicer Quote,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+189,Trump Didn’t Change NFL Tax Status,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+190,Parton Me? Dolly Didn’t Praise Trump,REAL,NEGATIVE,NEUTRAL,POSITIVE, POSITIVE
+191,No Federal Ban on Smoking in Cars with Children,REAL,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+192,False Headline in Philly Starbucks Settlement,REAL,NEGATIVE,NEGATIVE,NEUTRAL, NEGATIVE
+193,The Great Texas Wind Power Boom,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+194,California man celebrates 100th birthday with 'dog parade' featuring 200 pups of all shapes and sizes,REAL,POSITIVE,NEGATIVE,POSITIVE, POSITIVE
+195,Ariel Winter and Levi Meaden have officially broken up,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+196,Ariana Grande and Pete Davidson Have Ended Their Engagement and I'm Already Crying,REAL,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+197,"The ""Feud"" Between Meghan Markle and Kate Middleton Just Reinforces Gender Stereotypes",REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+198,Katie Holmes is not pregnant with Jamie Foxx’s child: Rep,REAL,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+199,"Brad Pitt Not Introducing Kids To Rumored Girlfriend Neri Oxman, Report Says",REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+200,Real Madrid manager Carlo Ancelotti facing nearly five years in prison on tax-fraud charges,REAL,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+201,Jennifer Lopez & Vanessa Hudgens Spotted On Set Of ‘Second Act’,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+202,Selena Gomez And Justin Theroux Are Not ‘Falling For Each Other’ [Debunked],REAL,NEGATIVE,NEGATIVE,NEUTRAL, POSITIVE
+203,Brad Pitt's costar Marion Cotillard shuts down cheating rumors,REAL,POSITIVE,NEGATIVE,NEGATIVE, NEGATIVE
+204,Brad Pitt vows to stay celibate for a year after shock Angelina Jolie split,REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+205,"Scott Baio regrets blaming Erin Moran’s death on drugs, alcohol before learning she had cancer",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+206,Gwen Stefani shuts down rumours she was 'dumped' by Blake Shelton over 'jealousy and drama' with loved-up snap,REAL,POSITIVE,NEGATIVE,NEUTRAL, NEGATIVE
+207,Katie Holmes isn't pregnant with Jamie Foxx’s baby and there's no wedding,REAL,NEGATIVE,POSITIVE,NEGATIVE, NEUTRAL
+208,Florida’s largest school district seeks more funding amid sharp rise in immigrant students,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+209,"Rapper and actor Vince Staples brings offbeat, dark humor to Netflix series",REAL,POSITIVE,NEGATIVE,POSITIVE, POSITIVE
+210,MLB’s first-ever female primary play-by-play announcer says her role opens ‘door for the next generation’ ,REAL,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+211,"Taylor Swift donates $100,000 to family of woman fatally shot at the Chiefs victory parade",REAL,POSITIVE,NEGATIVE,POSITIVE, POSITIVE
+212,Israel-Hamas war: Satellite images show extensive construction near Egypt's border with Gaza,REAL,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+213,Day two of Fani Willis hearing ends; Trump to appeal $350M fraud trial fine: Highlights,REAL,POSITIVE,POSITIVE,NEGATIVE, NEGATIVE
+214,"Nikki Haley ends presidential campaign with 'no regrets,' ceding GOP nomination to Trump",REAL,NEGATIVE,POSITIVE,NEGATIVE, POSITIVE
+215,Trump attends N.Y. court hearing as judge orders criminal trial to proceed next month,REAL,POSITIVE,NEGATIVE,NEGATIVE, NEGATIVE
+216,Jay-Z reveals gay secret,FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+217,In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight,REAL,POSITIVE,POSITIVE,NEGATIVE, NEGATIVE
+218,"Even when IVF is covered by insurance, high bills, surprises and hassles abound ",REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+219,New York and Wisconsin Will Defy Federal Directive to Provide Viagra Through Medicaid,REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+220,"In Pre-Primary Pivot to Right, Walker Shifts Tone on Abortion ",REAL,NEGATIVE,POSITIVE,NEUTRAL, POSITIVE
+221,"Haley Trails Trump by 36 Points in South Carolina, New Poll Shows",REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+222,"No, Wind Farms Aren’t ‘Driving Whales Crazy’",REAL,POSITIVE,NEGATIVE,NEGATIVE, POSITIVE
+223,"In Big Election Year, A.I.’s Architects Move Against Its Misuse",REAL,POSITIVE,NEUTRAL,NEGATIVE, NEGATIVE
+224,Who Are You? The Art and Science of Measuring Identity,REAL,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+225,Migrant encounters at the U.S.-Mexico border hit a record high at the end of 2023,REAL,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+226,Shaq did not say Trump was 'possibly the best president' ever,REAL,POSITIVE,POSITIVE,POSITIVE, NEGATIVE
+227,Website falsely claims Florida called for recount over voter fraud ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+228,Occupy Democrats grossly twists Virginia school bathroom bill ,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+229,Donald Trump didn't use 'The Celebrity Apprentice' catchphrase 'You're fired' on Paul Ryan ,REAL,NEGATIVE,NEUTRAL,NEUTRAL, POSITIVE
+230,"No, South African officials didn't order a firm to lay off white workers ",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEUTRAL
+231,Websites spread fake news that Nancy Pelosi was ‘arrested' over ‘coup attempt’ ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+232,Fake news headline blames Texas deputy’s real death on fictitious Muslim refugees ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+233,Blog posts don't update bad details about couple's suicide over health care,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+234,"Hillary Clinton not dead from heart attack, as fake news site claims",REAL,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+235,"Hillary Clinton not dead from heart attack, as fake news site claims",REAL,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+236,Fake news wrongly says Whoopi Goldberg arrested for running puppy mill,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+237,Blog posts wrongly say there's proof Democrats hired actors to play white nationalists ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEUTRAL
+238,Story that Obama supporter was behind wheel of car in Charlottesville is fake news,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+239,"Barcelona terrorist related to Barack Obama, fake news site falsely says",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+240,It's fake news that Donald Trump pardoned Kentucky clerk Kim Davis,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+241,"No, judge didn't grant subpoena of President Donald Trump ",REAL,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+242,"No, Roy Moore accuser didn't admit she forged his signature in her yearbook ",REAL,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+243,"No, Roy Moore didn't win Alabama race with military ballots ",REAL,NEGATIVE,POSITIVE,POSITIVE, NEGATIVE
+244,Internet resurrects false claim that Bill and Hillary Clinton are divorcing ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+245,Fake brews! Starbucks didn’t put photos of Trump on store floors,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+246,"No, a celebrity's car didn't break down in your hometown",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+247,"No, Meryl Streep's anti-Trump award speech didn't cost her a 'Happy Days' job ",REAL,NEGATIVE,POSITIVE,POSITIVE, NEGATIVE
+248,"No, the Australian government is not installing microchips in citizens",REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEUTRAL
+249,White House chef’s faux resignation is on the fake news menu ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+250,"""Barack Obama tweets sick attack on John McCain, says he should have died."" ",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+251,Years-old story that Edward Snowden can prove Osama bin Laden lives in Bahamas is fake news ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+252,Saga of bodies found in barrels on Clinton property is fake news ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+253,Image of Obama in handcuffs for wiretapping Trump is fake photo ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+254,It's a trap! Story that FBI issued warrant for Obama in Trump wiretapping case is fake ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+255,Snoop Dogg wasn’t arrested over comments about shooting Donald Trump in music video ,REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+256,Fake news says Bill O'Reilly beaten unconscious by liberal New Yorkers ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+257,"Fake news: Clinton Foundation has no ships, didn’t smuggle refugees",REAL,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+258,Liberal troll behind Tucker Carlson death hoax being spread online ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+259,Fake story about Trump voters being Russian agents started on white supremacist website,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+260,Fake news posts wrongly say U.S. Rep. Trey Gowdy’s son found dead in a dumpster,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+261,Conspiracy theory that Comey hid Seth Rich’s ties to WikiLeaks based on retracted story ,REAL,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+262,"No, Bowe Bergdahl didn't wander off during court ",REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEUTRAL
+263,Fake news: 2 million rounds of U.S. ammo turns up in Afghanistan ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+264,No evidence that Tina Turner is thankful for Donald Trump ,REAL,NEGATIVE,NEUTRAL,POSITIVE, NEGATIVE
+265,Fake news posts blame Puerto Rico's truck drivers for refusing to ship relief supplies ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+266,It's fake news that Kardashians donate $1 million to Las Vegas shooting victims,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+267,Fake news: Tampa Bay Lightning fires black player for raising fist during anthem ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+268,Did Austria's Sebastian Kurz ban George Soros' organization? That's fake news,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+269,Celebrity donations of tens of millions of dollars to Harvey victims are fake news,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+270,"No, Jared Kushner is not missing after Hurricane Irma demolished Mar-a-Lago",REAL,NEGATIVE,POSITIVE,POSITIVE, POSITIVE
+271,"No, Washington state did not change its name because George Washington owned slaves ",REAL,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+272,"Fake news says CNN ""pulled the plug"" during YouTube shooting coverage ",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+273,Fake story says Malia Obama suspended from Harvard ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+274,"No, British Intelligence didn't seize $400 million from Clinton Foundation ",REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+275,"No, House Minority leader Nancy Pelosi is not resigning ",REAL,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+276,Fake story says Democrats booed families of MS13 victims at State of the Union ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+277,"No, Jaguars NFL team didn't declare bankruptcy after players took a knee ",REAL,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+278,Fake news story says hitman for Bill Clinton confesses ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+279,No evidence that Trump ally Mike Huckabee was fired,REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEUTRAL
+280,Fake news circulates death hoax about Saoirse Ronan,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+281,"Headline says Czech Republic armed citizens to shoot terrorists, but that's False ",REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+282,Headline that Hillary Clinton killed by monster truck is fake news,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+283,"No, celebrities were not arrested trying to assassinate Trump ",REAL,NEGATIVE,NEUTRAL,POSITIVE, POSITIVE
+284,"Yes, Wisconsin correctional officer training classes are largest they’ve ever been ",REAL,POSITIVE,NEUTRAL,POSITIVE, POSITIVE
+285,"No, Pope Francis didn't say gun owners can't call themselves Christians",REAL,NEGATIVE,NEUTRAL,NEGATIVE, POSITIVE
+286,Online story gets details wrong about informant payment in Trump Russia probe ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+287,Don’t tell mom the babysitter’s a cannibal (because it’s not true) ,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+288,Wisconsin Picks New Legislative Maps That Would End Years of GOP Gerrymandering ,REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+289,Fox News has not fired Laura Ingraham,REAL,NEGATIVE,NEUTRAL,POSITIVE, POSITIVE
+290,"OpenAI, Meta and other tech giants sign effort to fight AI election interference",REAL,POSITIVE,NEGATIVE,NEGATIVE, NEGATIVE
+291,New York redistricting body approves new US House maps that may help Democrats,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+292,"Kansas City police link Super Bowl rally shooting to dispute, not extremism",REAL,POSITIVE,POSITIVE,POSITIVE, NEUTRAL
+293,"Super Bowl parade victim was Kansas City radio DJ, her son was also shot",REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+294,"No, Bill Gates does not plan to depopulate the earth with vaccinations.",REAL,NEGATIVE,NEUTRAL,NEGATIVE, NEUTRAL
+295,Not real news: A look at what didn’t happen this week,REAL,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+296,"No, Allegiant Air is NOT Giving Everyone Free Plane Tickets",REAL,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+297,Baby Archie Is Adorable in New Photos With Meghan Markle and Prince Harry,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+298,City Planning’s Greatest Innovation Makes a Comeback,REAL,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+299,Why the Most Educated People in America Fall for Anti-Semitic Lies,REAL,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+300,Why Russia Killed Navalny,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+301,How to Defeat a Mafia State,REAL,POSITIVE,NEUTRAL,NEGATIVE, NEGATIVE
+302,Why Attacks on Trump’s Mental Acuity Don’t Land,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+303,Things Get Strange When AI Starts Training Itself,REAL,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+304,NRA President Jim Porter:Its Only A Matter Of Time Before We Can Own Colored People,FAKE,NEGATIVE,POSITIVE,POSITIVE, POSITIVE
+305,"UK must deepen Europe defence ties in face of Trump threat, says Macron ally",REAL,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+306,Ruling expected in Donald Trump’s $370m New York fraud trial,REAL,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+307,Incomprehensible’: Madrid plans huge firework display on nature reserve,REAL,POSITIVE,POSITIVE,POSITIVE, NEUTRAL
+308,Brad Pitt and Angelina Jolie NOT getting back together reveals ‘close family friend’ after rumours they had reunited,REAL,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+309,"Brad Pitt is NOT dating Angelina Jolie lookalike, Ella Purnell, 21, after being linked to the Brit actress in his new TV series",REAL,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+310,Queen Elizabeth Removes Obamas from Royal Wedding Guest List-Fiction!,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+311,Kristen Stewart and Stella Maxwell Split: What Went Wrong? (Exclusive),REAL,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+312,The Weeknd reportedly sent Bella Hadid flowers to celebrate her Victoria's Secret return,REAL,POSITIVE,NEGATIVE,POSITIVE, POSITIVE
+313,"No, Reese's Peanut Butter Cups are not going away next month",REAL,POSITIVE,NEUTRAL,NEGATIVE, NEUTRAL
+314,Dangers of Triclosan,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+315,BREAKING: Sasha Obama Just Crashed Her Expensive New Car Into A Lake,FAKE,NEGATIVE,NEGATIVE,NEUTRAL, NEGATIVE
+316,Is Drake Dating Blac Chyna?,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+317,Jennifer Aniston's Pregnant! Or Is She? All The Baby Rumors Over Nearly 20 Years,FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+318,Alabama State Police Arrest 3 Poll Workers In Birmingham,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+319,Kim Kardashian Baby Name Shocker! Star Fights With Pregnant Kylie Over What To Call Daughter,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+320,Mike Tyson Offered SERIOUS Ca$h To Fight Russian Dictator Vladimir Putin,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+321,12 Times Scott Disick Proved He's the Real Star of 'Keeping Up With the Kardashians',FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+322,"NRA President Jim Porter Falsely Accused of Saying, “It’s Only A Matter Of Time Before We Can Own Colored People Again”",REAL,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+323,BREAKING: Leaked Picture Of Obama Being Dragged Before A Judge In Handcuffs For Wiretapping Trump,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+324,Mass-Media: Brad Pitt Broke Up with Ella Purnell for Princess of Monaco,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+325,Fans Say Footage Shows Miley Cyrus Has A Baby Bump ,FAKE,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+326,"Inside Julia Roberts and Danny Moder’s ‘really solid, loving marriage’",FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+327,Gwen Stefani & Blake Shelton Haven't Hit This Relationship Milestone Yet,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+328,"Gayle King thinks Oprah is ""intrigued"" by idea of a presidential run",FAKE,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+329,Beyonce's rep slams reports that Beyonce's lips are not all-natural,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+330,"Why Selena Gomez's Mom Called Justin Bieber ""Satan""",FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+331,The secret Donald Trump and Rudy Giuliani know about the Russia probe ,FAKE,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+332,The picture that proves Meghan Markle and Prince Harry aren't having children quite yet,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEGATIVE
+333,Katie Holmes and Jamie Foxx 'split' after five year secret romance,FAKE,NEGATIVE,NEGATIVE,POSITIVE, POSITIVE
+334,EXCLUSIVE: The naked truth! Caitlyn Jenner is planning to unveil her new body after gender reassignment surgery in a NUDE photo shoot - but not all the Kardashian clan is on board,FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+335,BREAKING: Rosa Parks’ Daughter Praises Trump’s Response to Charlottesville,FAKE,POSITIVE,NEUTRAL,POSITIVE, POSITIVE
+336,"EXCLUSIVE: Kris Jenner's fiancé claims she was sleeping with both OJ Simpson and Robert Kardashian, who admitted to his pastor and two best friends that Khloe was not his biological daughter",FAKE,NEGATIVE,POSITIVE,POSITIVE, POSITIVE
+337,"Caitlyn Jenner confirms daughter Kylie, 20, IS expecting a baby... as Kris refuses to address pregnancy claims on Ryan Seacrest's show",FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+338,Hailey Baldwin worries Selena Gomez will never get over Justin Bieber,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+339,Stella Maxwell & Kristen Stewart Are Still The Cutest Couple In Existence,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+340,"Selena Gomez ""Sad"" About Justin Bieber Breakup, Says Source",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+341,BREAKING: President Trump Pardons Kim Davis,FAKE,POSITIVE,NEUTRAL,POSITIVE, POSITIVE
+342,"No, the Golden Globes Didn't Forget the In Memoriam Segment...It Just Didn't Air on TV",REAL,NEGATIVE,POSITIVE,NEGATIVE, POSITIVE
+343,Is Kate Middleton having twins? Prince William had this to say - what is the likelihood?,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+344,Donald Trump to issue an executive order to ban Facebook across US,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEUTRAL
+345,Are Brad Pitt and Jennifer Lawrence dating?,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+346,"Two years on, here’s why the Brad Pitt-Angelina Jolie divorce isn’t final yet",FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+347,Fifty Shades Darker: Dakota Johnson and Jamie Dornan refuse to promote the film?,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+348,What! Brad Pitt is smitten by a young Angelina Jolie-lookalike?,FAKE,NEGATIVE,POSITIVE,NEUTRAL, NEUTRAL
+349,Are Selena Gomez & The Weeknd Working On A Movie Together?,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+350,Matt Damon’s publicist forced to deny reports actor is moving to Australia because he can't stand Donald Trump,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+351,Kendall Jenner Not The ‘Boss From Hell’ Who Mistreats Her Employees [Debunked] ,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, POSITIVE
+352,Is Billy Bush Begging To Be On ‘DWTS 2017?’ [UPDATE] ,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEUTRAL
+353,"Brad Pitt Vowing ‘To Stay Celibate’ Amid Angelina Jolie Divorce Is Not True, Reports ‘Gossip Cop’ ",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+354,"Blake Shelton Rumored To Have Dumped Gwen Stefani, According To ‘In Touch Weekly’ ",FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+355,Is Amal Clooney Pregnant? Fans Spot Maybe Baby Bump In New Pic ,FAKE,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+356,"Ariana Grande Is Not Calling Off Her Wedding To Pete Davidson, Despite Tabloid Report",FAKE,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+357,Gwen Stefani Got Dumped by Blake Shelton Over “Jealousy and Drama” (EXCLUSIVE),FAKE,NEGATIVE,NEUTRAL,NEUTRAL, NEGATIVE
+358,Jennifer Aniston and Brad Pitt Could Soon Be Having a Baby: “They’re Ready” (EXCLUSIVE),FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+359,Pregnant Kourtney Kardashian Hangs out With Justin Bieber Amid Baby Daddy Drama,FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+360,"Despite Rihanna-Leonardo DiCaprio rumors, actor is single, rep says ",FAKE,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+361,Robert Pattinson confirms he’s ‘kind of’ engaged to singer FKA Twigs,FAKE,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+362,Kate Middleton Really Wants to Get Pregnant With Baby No. 3 but Prince William Is Not Having It (EXCLUSIVE),FAKE,NEGATIVE,POSITIVE,POSITIVE, NEGATIVE
+363,Nina Dobrev and Orlando Bloom Are “Casually Dating” (REPORT),FAKE,POSITIVE,NEGATIVE,NEUTRAL, NEUTRAL
+364,Gwen Stefani shuts down rumours she was 'dumped' by Blake Shelton over 'jealousy and drama' with loved-up snap,FAKE,POSITIVE,NEGATIVE,NEUTRAL, NEGATIVE
+365,Brad and Ange back together,FAKE,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+366,CONFIRMED: Brad Pitt and Jennifer Aniston - 'They're back on!',FAKE,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+367,US report: Brad Pitt and Jennifer Aniston 'busted' over secret Aspen reunion,FAKE,NEGATIVE,NEGATIVE,NEUTRAL, POSITIVE
+368,Jennifer Aniston's shock news: Pregnant and in hiding,FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+369,US report: Jennifer Aniston 'Yes I'm pregnant with Brad's baby',FAKE,POSITIVE,POSITIVE,NEUTRAL, POSITIVE
+370,US report: Mary-Kate Olsen pregnancy shock,FAKE,POSITIVE,NEUTRAL,NEGATIVE, NEUTRAL
+371,Why Kate Middleton and Meghan Markle 'can't stand each other',FAKE,NEGATIVE,NEGATIVE,NEUTRAL, NEUTRAL
+372,The pictures that have fans convinced Katie Holmes is pregnant,FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+373,US report claims Meghan Markle and Kate Middleton are both expecting a baby,FAKE,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+374,"Kasich: “If A Woman Is Not Intelligent Enough To Keep Her Legs Closed, How Can We Entrust The Abortion Decision To Her?”",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+375,"DNC's Donna Brazile Dedicated Her Book to 'Patriot' Seth Rich, Whose Death Made Her Fear for Her Own Life",FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+376,Could Trump Win The Nobel Peace Prize? Peace in Korean Peninsula Would Be Significant Foreign Policy Achievement,FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+377,Are Nicole Kidman and Keith Urban headed for divorce? Friends say yes,FAKE,NEGATIVE,NEUTRAL,POSITIVE, POSITIVE
+378,Did Kevin Bacon really say we're 'blessed' with Trump presidency? ,FAKE,NEGATIVE,POSITIVE,NEUTRAL, POSITIVE
+379,"Emma Stone, Justin Theroux Caught Showing PDA?",FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+380,"Russian source behind Trump dossier killed in Russian plane crash, Rosatom CFO also dead.",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+381,Definitive Proof That Justin Timberlake & Jessica Biel Are Stronger Than Ever,FAKE,POSITIVE,NEUTRAL,POSITIVE, POSITIVE
+382,All The Signs Kourtney Kardashian & Scott Disick Are Getting Back Together,FAKE,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+383,Laura Dern & Reese Witherspoon Prove They’re as Close as Ever & Not Feuding,FAKE,POSITIVE,NEUTRAL,NEUTRAL, NEUTRAL
+384,Oprah Winfrey says she is waiting for 'sign from God' to run for US president ,FAKE,NEGATIVE,NEUTRAL,NEUTRAL, POSITIVE
+385,This is McCarthyism!': Trump accuses Obama of 'wire-tapping' his office before election,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+386,Jennifer Aniston is PREGNANT! (According to Kathy Hilton) ,FAKE,POSITIVE,POSITIVE,NEUTRAL, NEUTRAL
+387,"Sofia Vergara and Joe Manganiello Defend Marriage, SLAM Haters on Instagram",FAKE,POSITIVE,NEUTRAL,NEGATIVE, NEGATIVE
+388,Buzz Aldrin ‘passes UFO lie detector test leaving experts convinced that he encountered alien life’,FAKE,POSITIVE,NEGATIVE,POSITIVE, NEGATIVE
+389,Shock reports claim Brad Pitt was cheating with co-star Marion Cotillard behind Ange’s back,FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+390,BREAKING: Florida Moves For FULL RECOUNT Of State Over Massive Voter Fraud (DETAILS),FAKE,NEGATIVE,POSITIVE,NEGATIVE, NEGATIVE
+391,"Angelina Jolie: ‘It’s Strange, I Never Wanted to Have a Baby’",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
+392,"Hollywood Producer Joel Silver Sued for Assistant’s Death During Jennifer Aniston, Justin Theroux’s Bora Bora Honeymoon",FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+393,Jennifer Lawrence Is Perfectly Fine with Those Brad Pitt Dating Rumors,FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+394,Will Jennifer Aniston And Brad Pitt Give Love A Second Chance?,FAKE,POSITIVE,POSITIVE,POSITIVE, POSITIVE
+395,"dele NOT Panicking About Entourage Missing Grammys, Despite Report",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, POSITIVE
+396,"Julia Roberts NOT Forcing Danny Moder To Follow Detox Diet, Despite Report",FAKE,POSITIVE,NEUTRAL,NEUTRAL, POSITIVE
+397,Pippa Middleton Refuses To Invite Meghan Markle To Wedding?,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+398,Macaulay Culkin: ‘Satanic’ Hollywood Execs Ritually Murder Child Actors,FAKE,NEGATIVE,NEUTRAL,NEGATIVE, NEGATIVE
+399,"Is Blake Shelton An Alcoholic? Details On Blake's Fall On Stage, Alleged Drinking Problem And Addiction",FAKE,NEGATIVE,NEGATIVE,NEGATIVE, NEGATIVE
